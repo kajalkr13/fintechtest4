@@ -1,0 +1,1 @@
+print("i am B.SC IT student")
